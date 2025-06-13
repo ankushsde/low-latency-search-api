@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Testing & coverage
+coverage/
+artillery-report.json
+*.test.js.snap
+
+# Editor + OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+*.bak
